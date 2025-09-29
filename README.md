@@ -23,9 +23,7 @@ This project develops an automated credit risk prediction system that helps fina
 ```
 ├── predictive_model_loan.ipynb    # Main analysis notebook
 ├── loan_data_2007_2014.csv       # Primary dataset
-├── LCDataDictionary.xlsx         # Data dictionary reference
 ├── README.md                      # Project documentation
-└── requirements.txt               # Python dependencies
 ```
 
 ## 🛠️ Technical Architecture
